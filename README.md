@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quesada90
-- 👀 I’m interested in desing and technology.
-- 🌱 Learning Interaction Design and Computer Science.
+- 👀 I’m interested in design and technology.
+- 🌱 Interaction Design learning Computer Science.
 - 💞️ Looking to collaborate on creative coding projects.
 - 📫 Get in touch -> jquesada.design@gmail.com
 
